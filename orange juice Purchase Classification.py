@@ -4,7 +4,7 @@
 # # [Shanshan, Lin]¶
 # # [2020-08-08]
 
-# # Answer to Question [7], Part [2.a]
+# # Question: Choose an appropriate metric to analyze a model’s performance. Justify.
 
 # In[1]:
 
@@ -270,7 +270,7 @@ y_resampled.shape #now our balanced_train y is called "y_resampled"
 np.bincount(y_resampled)  #now dataset is balanced, have both 2 classess equal to 528
 
 
-# # Answer to Question [7], Part [2.c]
+# # Question: Build 3 classification prediction models as follows:
 
 # Model Building
 
