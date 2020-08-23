@@ -2,9 +2,6 @@
 # coding: utf-8
 
 # # [Shanshan, Lin]¶
-# # [10065474]
-# # [MMA]
-# # [MMA 869]
 # # [2020-08-08]
 
 # # Answer to Question [7], Part [2.a]
